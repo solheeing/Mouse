@@ -19,6 +19,9 @@ The design process converts the final surface into a 1 mm thick solid and applie
 <img src="Mouse/images/Parting-2.png">
 
 ## ⚒️ Tools
+![Tool](https://img.shields.io/badge/CATIA-V5-blue)
+![Tool](https://img.shields.io/badge/Keyshot-auto)
+
 - **CATIA V5**: 3D modeling, Drafting
 - **Keyshot**: Rendering
 
